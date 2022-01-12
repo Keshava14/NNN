@@ -26,6 +26,7 @@ public class Occurancechar {
 			if(count>0) 
 			{
 				System.out.print(ch+""+count);
+				System.out.print("hi");
 			}
 		}
 // a5b3c3
